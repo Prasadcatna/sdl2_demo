@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/prasad/project/sdl2_demo/build",
+  "command": "/usr/bin/g++  -I/include -g -o CMakeFiles/sdl2_demo.dir/main.cpp.o -c /home/prasad/project/sdl2_demo/main.cpp",
+  "file": "/home/prasad/project/sdl2_demo/main.cpp"
+},
+{
+  "directory": "/home/prasad/project/sdl2_demo/build",
+  "command": "/usr/bin/g++  -I/include -g -o CMakeFiles/sdl2_demo.dir/src/Game.cpp.o -c /home/prasad/project/sdl2_demo/src/Game.cpp",
+  "file": "/home/prasad/project/sdl2_demo/src/Game.cpp"
+}
+]

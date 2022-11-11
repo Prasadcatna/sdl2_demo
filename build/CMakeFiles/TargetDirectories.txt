@@ -1,0 +1,3 @@
+/home/prasad/project/sdl2_demo/build/CMakeFiles/sdl2_demo.dir
+/home/prasad/project/sdl2_demo/build/CMakeFiles/edit_cache.dir
+/home/prasad/project/sdl2_demo/build/CMakeFiles/rebuild_cache.dir

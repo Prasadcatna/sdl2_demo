@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/sdl2_demo.dir/main.cpp.o CMakeFiles/sdl2_demo.dir/src/Game.cpp.o -o sdl2_demo  -lSDL2main -lSDL2 
